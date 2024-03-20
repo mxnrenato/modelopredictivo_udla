@@ -7,3 +7,5 @@
 **BASE DE DATOS:** Walmart_prediction 
 
 **DESCRIPCIÓN:** Aplicación de un modelo de Machine Learning - Random Forest para predecir la variable de ventas.
+
+Actividad final para la materia de Analítica Predictiva, máster en Business Inteligence y Ciencia de Datos. 
